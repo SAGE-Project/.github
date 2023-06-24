@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+This is the page of works related to the project **SAGE: A Symbiosis of Satisfiability Checking, Graph Neural Networks and Symbolic Computation**.
+
+* Binarized Neural Networks for Traffic Sign Recogntion: https://github.com/apostovan21/BinarizedNeuralNetwork
+* German Traffic Signs Recognition Benckmark submitted to VNN-Comp23: https://github.com/apostovan21/vnncomp2023
+* SAGE - A Tool for Optimal Deployments in Kubernetes Clusters comprising SAGEOpt and SAGE Predeployer (https://github.com/SAGE-Project/SAGE-Predeployer)
+
+
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
